@@ -1,5 +1,4 @@
-# Motion-Detector-Altium-Global-Scholarship-
-# Motion Detector_Light - Altium PCB Design
+# Motion-Detector-Altium-Global-Scholarship
 
 ## About The Project
 This repository contains the hardware design files and manufacturing outputs for a Motion Detector using light. 
