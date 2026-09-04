@@ -2,7 +2,7 @@
 # Motion Detector_Light - Altium PCB Design
 
 ## About The Project
-This repository contains the hardware design files and manufacturing outputs for a Motion Light Detector. 
+This repository contains the hardware design files and manufacturing outputs for a Motion Detector using light. 
 The project was completed as the practical assignment for the **"Libraries-2-Output"** module, part of the **Altium Global Scholarship Program**.
 
 My main focus during this project was to master the industry-standard PCB design workflow in Altium Designer, rather than the core circuit architecture.
